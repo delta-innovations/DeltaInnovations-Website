@@ -1,6 +1,6 @@
 # Delta Innovation
 
-![Delta Innovation Banner](./public/group_25.jpg)
+![Delta Innovation Banner](./public/Group_25.jpg)
 
 ## 🚀 Overview
 
